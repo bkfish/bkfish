@@ -1,6 +1,3 @@
-### Hi there 👋 Nice to meet U
-
-
 <!--
 **Triple-Z/Triple-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
