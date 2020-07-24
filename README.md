@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Nice to meet U
+
 
 <!--
-**bkfish/bkfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Triple-Z/Triple-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+![书鱼's github stats](https://github-readme-stats.vercel.app/api?username=bkfish&show_icons=true&theme=default)
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Triple-Z&theme=default)
 -->
