@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![书鱼's github stats](https://github-readme-stats.vercel.app/api?username=bkfish&show_icons=true&theme=default)
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Triple-Z&theme=default)
--->
-
 ```
 .------..------..------..------..------..------..------..------.
 |B.--. ||O.--. ||O.--. ||K.--. ||F.--. ||I.--. ||S.--. ||H.--. |
@@ -30,3 +23,10 @@ Here are some ideas to get you started:
 | '--'B|| '--'O|| '--'O|| '--'K|| '--'F|| '--'I|| '--'S|| '--'H|
 `------'`------'`------'`------'`------'`------'`------'`------'
 ```
+![书鱼's github stats](https://github-readme-stats.vercel.app/api?username=bkfish&show_icons=true&theme=default)
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Triple-Z&theme=default)
+-->
+
+
